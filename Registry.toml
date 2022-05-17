@@ -1,6 +1,6 @@
 name = "Velexi"
 uuid = "df234692-c8e6-4477-8353-992663219cfb"
-repo = "https://github.com/velexi-corporation/JuliaRegistry.git"
+repo = "https://github.com/velexi-research/JuliaRegistry.git"
 description = "Velexi Julia Registry"
 
 [packages]
