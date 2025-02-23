@@ -5,4 +5,5 @@ description = "Velexi Julia Registry"
 
 [packages]
 4f49dcd8-3c92-4c49-9c92-5589c1fd49ac = { name = "XtallographyUtils", path = "X/XtallographyUtils" }
+795fc1aa-9caa-44e9-84db-c49cd1f148be = { name = "Xtallography", path = "X/Xtallography" }
 7adf08e9-5ce8-4ef7-b490-37ded1c6a328 = { name = "GeometricAlgebra", path = "G/GeometricAlgebra" }
